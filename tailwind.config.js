@@ -6,6 +6,7 @@ module.exports = {
       fontFamily: {
         inter: ['"Inter"', "sans-serif"],
         glegoo: ['"Glegoo"', "sans-serif"],
+        cursive: ['"Cedarville Cursive"', "sans-serif"],
       },
     },
   },
