@@ -273,19 +273,18 @@ function App() {
               <p className="text-white text-md font-inter">Work: 403-299-4289 ext. 406</p>
             </div>
             <div className="ml-[-300px]">
-              <h2 className="font-glegoo text-2xl text-white font-bold">Javan Neves</h2>
-              <p className="text-white text-lg font-inter ml-1">Previous Manager</p>
-              <p className="text-white text-md font-inter ml-[-12px]">jneves@calgarycoop.com</p>
-              <p className="text-white text-md font-inter">Cell: +1 204-266-3042</p>
-              <p className="text-white text-md font-inter ml-[-12px]">Work: 403-934-2928 ext. 406</p>
+              <h2 className="font-glegoo text-2xl text-white font-bold">Isabella Buturla</h2>
+              <p className="text-white text-lg font-inter ml-12">Co-worker</p>
+              <p className="text-white text-md font-inter ml-5">Cell: 403-992-5667</p>
+              <p className="text-white text-md font-inter ml-[-12px]">Work: 403-299-4426 ext. 365</p>
             </div>
-            <div className="ml-[-625px]">
+            {/* <div className="ml-[-625px]">
               <h2 className="font-glegoo text-2xl text-white font-bold">3rd reference</h2>
               <p className="text-white text-lg font-inter ml-1">role</p>
               <p className="text-white text-md font-inter ml-[-12px]">email</p>
               <p className="text-white text-md font-inter">Cell:</p>
               <p className="text-white text-md font-inter ml-[-12px]">Work: </p>
-            </div>
+            </div> */}
           </div>
         </div>
         <div ref={conclusionRef} id="conclusion" className="mt-36">
