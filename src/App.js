@@ -200,7 +200,7 @@ function App() {
           <table className="ml-[-30px] lg:ml-12 mt-8 text-white font-medium text-lg lg:text-xl font-inter">
             <thead>
               <th>Languages</th>
-              <th className="px-5 lg:px-36">Frameworks</th>
+              <th className="px-5 md:px-36">Frameworks</th>
               <th>Tools</th>
             </thead>
             <tbody>
@@ -215,7 +215,7 @@ function App() {
                   <li>JSON</li>
                 </ul>
               </td>
-              <td className="px-5 lg:px-36">
+              <td className="px-5 md:px-36">
                 <ul className="list-disc">
                   <li>React</li>
                   <li>Node.JS</li>
