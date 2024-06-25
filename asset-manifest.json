@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bc-ndp-resume/static/css/main.96a41029.css",
-    "main.js": "/bc-ndp-resume/static/js/main.685e35d5.js",
+    "main.css": "/bc-ndp-resume/static/css/main.db42f3aa.css",
+    "main.js": "/bc-ndp-resume/static/js/main.2601f5ad.js",
     "static/js/453.4bc0f6a0.chunk.js": "/bc-ndp-resume/static/js/453.4bc0f6a0.chunk.js",
     "static/media/bulletproofPerformance.png": "/bc-ndp-resume/static/media/bulletproofPerformance.d13c5a8ca38fd3c884c1.png",
-    "static/media/Resume.pdf": "/bc-ndp-resume/static/media/Resume.a60bbbdec33402f4d433.pdf",
+    "static/media/Resume.pdf": "/bc-ndp-resume/static/media/Resume.a43e7a21a5ff1c5a8215.pdf",
     "static/media/amethyst.png": "/bc-ndp-resume/static/media/amethyst.06646950044b7eae40e5.png",
     "static/media/NDPresume.png": "/bc-ndp-resume/static/media/NDPresume.e30802426e8a19623dab.png",
     "index.html": "/bc-ndp-resume/index.html",
-    "main.96a41029.css.map": "/bc-ndp-resume/static/css/main.96a41029.css.map",
-    "main.685e35d5.js.map": "/bc-ndp-resume/static/js/main.685e35d5.js.map",
+    "main.db42f3aa.css.map": "/bc-ndp-resume/static/css/main.db42f3aa.css.map",
+    "main.2601f5ad.js.map": "/bc-ndp-resume/static/js/main.2601f5ad.js.map",
     "453.4bc0f6a0.chunk.js.map": "/bc-ndp-resume/static/js/453.4bc0f6a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96a41029.css",
-    "static/js/main.685e35d5.js"
+    "static/css/main.db42f3aa.css",
+    "static/js/main.2601f5ad.js"
   ]
 }
