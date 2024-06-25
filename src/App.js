@@ -185,11 +185,11 @@ function App() {
       <div className="pl-16 pt-12">
         <div ref={introRef} id="intro">
           <h1 className="text-orange-500 font-bold text-5xl font-inter">Hi NDP Party of BC</h1>
-          <p className="mt-8 pr-24 w-screen lg:w-1/2 text-white font-medium text-xl font-inter">I wanted to stand out with my resume so I decided to turn it into a website for you to navigate around. I have also included a download link to a more proper resume at the bottom of this page. I hope you enjoy learning more about me and my skill set. If you have any questions at all feel free to reach out at any time.</p>
+          <p className="mt-8 pr-24 w-screen lg:w-1/2 text-white font-medium text-xl font-inter">I wanted to stand out with my resume so, I decided to turn it into a website for you to navigate. I have also included a download link to a proper resume at the bottom of the navigation menu. I hope you enjoy learning more about me and my skill set. If you have any questions at all, feel free to reach out at any time.</p>
         </div>
         <div ref={aboutRef} id="about" className="mt-36">
           <h2 className="lg:ml-64 text-4xl font-glegoo text-white font-bold">About Me</h2>
-          <p className="mt-8 pr-24 w-screen lg:w-1/2 text-white font-medium text-xl font-inter">Hi my name is Griffin but I prefer Mack. I am an aspiring Software/Web Developer with a lot of passion in the field ever since I was little kid trying to make simple programs on his dad’s computer which I “borrowed”.  I have a diverse tech stack and always willing to jump on to new tasks acquiring new skills along the way. You can learn more about my experience and education below.</p>
+          <p className="mt-8 pr-24 w-screen lg:w-1/2 text-white font-medium text-xl font-inter">Hi my name is Griffin, but I prefer Mack. I am an aspiring Software/Web Developer and have been passionate about the field ever since I was little kid trying to make simple programs on my dad's computer. I have a diverse tech stack and I am always willing to jump on to new tasks, acquiring new skills along the way. You can learn more about my experience and education below.</p>
         </div>
         <div ref={eduRef} id="education" className="mt-36">
           <h2 className="lg:ml-64 text-4xl font-glegoo text-white font-bold">Education</h2>
@@ -240,7 +240,7 @@ function App() {
         </div>
         <div ref={hireRef} id="hire" className="mt-36">
           <h2 className="lg:ml-64 text-4xl font-glegoo text-white font-bold">Hire Me</h2>
-          <p className="mt-8 pr-24 w-screen lg:w-1/2 text-white font-medium text-xl font-inter">Where I lack in professional experience I have a can do attitude and a willingness to learn on the job. I am an easily adaptable person to any kind of situation and I feel as I would be an outstanding addition to your team!</p>
+          <p className="mt-8 pr-24 w-screen lg:w-1/2 text-white font-medium text-xl font-inter">Although I lack professional experience, I have a can do attitude and a willingness to learn on the job. I am an easily adaptable person to any kind of situation and I feel as I would be an outstanding addition to your team!</p>
         </div>
         <div ref={projectRef} id="projects" className="mt-36">
           <h2 className="lg:ml-64 text-4xl font-glegoo text-white font-bold">Projects</h2>
