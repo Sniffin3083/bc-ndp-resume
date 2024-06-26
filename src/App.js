@@ -272,19 +272,18 @@ function App() {
               <p className="text-white text-md font-inter ml-6">Cell: 403-870-51190</p>
               <p className="text-white text-md font-inter">Work: 403-299-4289 ext. 406</p>
             </div>
-            <div className="ml-[-300px]">
+            <div className="mt-8 lg:mt-0 lg:ml-[-300px]">
               <h2 className="font-glegoo text-2xl text-white font-bold">Isabella Buturla</h2>
               <p className="text-white text-lg font-inter ml-12">Co-worker</p>
               <p className="text-white text-md font-inter ml-5">Cell: 403-992-5667</p>
               <p className="text-white text-md font-inter ml-[-12px]">Work: 403-299-4426 ext. 365</p>
             </div>
-            {/* <div className="ml-[-625px]">
-              <h2 className="font-glegoo text-2xl text-white font-bold">3rd reference</h2>
-              <p className="text-white text-lg font-inter ml-1">role</p>
-              <p className="text-white text-md font-inter ml-[-12px]">email</p>
-              <p className="text-white text-md font-inter">Cell:</p>
-              <p className="text-white text-md font-inter ml-[-12px]">Work: </p>
-            </div> */}
+            <div className="mt-8 lg:mt-0 lg:ml-[-625px]">
+              <h2 className="font-glegoo text-2xl text-white font-bold">Carson Breckenridge</h2>
+              <p className="text-white text-lg font-inter ml-12">Former Co-worker</p>
+              <p className="text-white text-md font-inter ml-10">carsbreck@gmail.com</p>
+              <p className="text-white text-md font-inter ml-12">Cell: 587-891-4399</p>
+            </div>
           </div>
         </div>
         <div ref={conclusionRef} id="conclusion" className="mt-36">
